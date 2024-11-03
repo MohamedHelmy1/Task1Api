@@ -1,0 +1,21 @@
+All Student
+
+[
+{
+"id":1,
+"name":"Math",
+"duration":"Math1"
+"status":true
+},
+{
+"id":2,
+"name":"computer",
+"duration":"computer1"
+"status":false
+},{
+"id":3,
+"name":"scince",
+"duration":"scince1"
+"status":true
+},
+]
